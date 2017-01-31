@@ -21,8 +21,9 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 18,
-    "versionPublish": "3.11.1"
+    "uniqCompNum": 23,
+    "versionPublish": "3.11.1",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -81,7 +82,7 @@
           },
           "title": "WELCOME",
           "text": "<span style=\"font-style: normal;\">Why, hello there.</span>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Biography</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.youtube.com/watch?v=Hrr3dp7zRQY\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Biography</a> "
         },
         {
           "_styles": {
@@ -178,7 +179,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PEDRO RODRIGUEZ</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Illustrator CC<br><br>Adobe Photoshop CC<br><br>Adobe Dreamweaver CC&nbsp;<br><br>Adobe Premiere Pro CC<br><br>Adobe Audition CC<br><br>Adobe Aftereffects CC<br><br>Microsoft Word 2016<br><br>Microsoft PowerPoint 2016</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Illustrator CC<br><br>Adobe Photoshop CC<br><br>IC3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RESUME<br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-f\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-m\">Adobe Illustrator CC<br><br>Adobe Photoshop CC<br><br>Adobe Dreamweaver CC&nbsp;<br><br>Adobe Premiere Pro CC<br><br>Adobe Audition CC<br><br>Adobe Aftereffects CC<br><br>Microsoft Word 2016<br><br>Microsoft PowerPoint 2016</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Illustrator CC<br><br>Adobe Photoshop CC<br><br>IC3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-l\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RESUME<br></a></li>"
         },
         {
           "_styles": {
@@ -267,7 +268,7 @@
             }
           },
           "title1": "Lifestyle",
-          "subtitle1": "Mild",
+          "subtitle1": "<span style=\"font-style: normal;\">Mild</span>",
           "caption1": "Been living in a middle class household in Miami, Florida for basically all my life. My family have helped me a great deal, I hope I'll be staying in the area to finish off school and still be around them.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
@@ -283,7 +284,7 @@
             }
           },
           "title2": "Hobbies",
-          "subtitle2": "Hot",
+          "subtitle2": "<span style=\"font-style: normal;\">Hot</span>",
           "caption2": "I absolutely love playing video games, I've been doing it for years and I don't think I'll ever stop. Though for a change of pace, I also love writing; whether it be short stories, scripts or full-blown novels - love doing it all.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
@@ -299,8 +300,8 @@
             }
           },
           "title3": "School",
-          "subtitle3": "Flammin' Hot",
-          "caption3": "I went to a magnet school by the name of &nbsp; &nbsp; &nbsp; &nbsp;Miami Arts Studio. I went there for 7 years of my life and learned plenty of stuff ranging from Digital Design, Art, Stage Design, Film Making, Photography, Creative Writing, and much more.",
+          "subtitle3": "<span style=\"font-style: normal;\">Flammin' Hot</span>",
+          "caption3": "I went to a magnet school by the name of <i>Miami Arts Studio</i>. I went there for 7 years of my life and learned plenty of stuff ranging from Digital Design, Art, Stage Design, Film Making, Photography, Creative Writing, and much more.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -315,7 +316,7 @@
             }
           },
           "title4": "The Future",
-          "subtitle4": "Actually on Fire",
+          "subtitle4": "<span style=\"font-style: normal;\">Actually on Fire</span>",
           "caption4": "My real passions and things I'd hope to incorporate into a career choice are: Photography, Cinematography, Film, and Writing. I hope to go to a highly acclaimed University and make it into the industry I desire to be apart of &nbsp; ... &nbsp; as unlikely as that might be.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
@@ -346,6 +347,240 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0",
+            "showMeta": true
+          },
+          "title": "The Goods",
+          "meta": "Fill Text Goes Here"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_styles": {
+            "LI": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tv-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/tv-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-4-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-4-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Sketches",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cover-art-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/cover-art-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Sketches",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sketch-1-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/sketch-1-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/moon-tattoo-redux-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/moon-tattoo-redux-2-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/exploded-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/exploded-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image-in-tv-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image-in-tv-2-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-5-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-5-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/before-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/before-2000x2000.png",
+                "caption": "<b>Before</b> Retouch - <i>1st</i> Place Winner of Photo-Retouching Contest held at County Fair, 2016",
+                "active": false
+              },
+              {
+                "tags": "Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/after-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/after-2000x2000.png",
+                "caption": "<b>After</b> Retouch - <i>1st</i> Place Winner of Photo-Retouching Contest held at County Fair, 2016",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/f-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kraken-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kraken-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/red-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/red-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tree-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tree-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170129-225717-1-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170129-225717-1-2000x2500.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/distant-past-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/distant-past-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cam-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cam-2000x1000.jpg",
+                "caption": "",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": true,
+            "filter": true,
+            "bgColor": "#2969b0",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-m",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     }

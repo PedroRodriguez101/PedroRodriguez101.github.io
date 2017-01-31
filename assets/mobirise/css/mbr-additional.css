@@ -526,3 +526,16 @@ h6,
   color: #ffffff;
   text-align: center;
 }
+#header3-l .mbr-section-title,
+#header3-l .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-l H3 {
+  color: #ffffff;
+}
+#header3-l SMALL {
+  color: #ffffff;
+}
+#gallery4-m LI {
+  color: #ffffff;
+}
