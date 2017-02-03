@@ -18,6 +18,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -535,7 +537,14 @@ h6,
 }
 #header3-l SMALL {
   color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
 }
 #gallery4-m LI {
   color: #ffffff;
+}
+#contacts1-q P {
+  font-family: 'Oxygen', sans-serif;
+}
+#contacts1-q STRONG {
+  font-size: 16px;
 }
