@@ -261,7 +261,7 @@
               "name": "home",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": "",
               "newWindow": false,
               "color": "#ffffff"
@@ -278,9 +278,10 @@
               "name": "trash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title2": "Hobbies",
@@ -294,9 +295,10 @@
               "name": "paper-plane",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title3": "School",
@@ -310,9 +312,10 @@
               "name": "rocket",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title4": "The Future",
@@ -695,7 +698,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "STRONG": {
-              "font-size": "16px"
+              "font-size": "16px",
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts1-q",
@@ -725,7 +729,7 @@
           },
           "text1": "<strong>Address</strong><br>15281, SW 26 Ter<br>Miami, FL 33185",
           "text2": "<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786 - 423 - 6392<br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": ""
         }
       ]
     }
