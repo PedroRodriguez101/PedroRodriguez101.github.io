@@ -552,6 +552,12 @@ h6,
 
 
 
+
+
+
+
+
+
 #menu-r .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -618,10 +624,40 @@ h6,
 #menu-r .btn {
   font-family: 'Arimo', sans-serif;
 }
-#contacts1-s P {
+#header5-t .mbr-section-title {
+  color: #ffffff;
+}
+#header5-t .mbr-section-lead {
+  color: #ffffff;
   font-family: 'Oxygen', sans-serif;
 }
-#contacts1-s STRONG {
+#header5-t .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#header5-u .mbr-section-title {
+  color: #ffffff;
+}
+#header5-u .mbr-section-lead {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#header5-u .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#header5-v .mbr-section-title {
+  color: #ffffff;
+}
+#header5-v .mbr-section-lead {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#header5-v .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#contacts1-q P {
+  font-family: 'Oxygen', sans-serif;
+}
+#contacts1-q STRONG {
   font-size: 16px;
   color: #ffffff;
 }
