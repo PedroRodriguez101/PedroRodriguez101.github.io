@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 87,
+    "uniqCompNum": 91,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/Petie-PC/Desktop",
     "screenshot": "screenshot.png"
@@ -520,7 +520,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-f\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#gallery4-18\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-u\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-v\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere Pro CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Audition CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe After Effects CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Lightroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-t\">Microsoft Word 2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Microsoft PowerPoint 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/credentials/IllusCred.pdf\" target=\"_blank\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PedroRodriguez101.github.io/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">HOMEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-f\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">RESUME<br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#gallery4-18\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-u\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-v\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere Pro CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Audition CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe After Effects CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Lightroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-t\">Microsoft Word 2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Microsoft PowerPoint 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/credentials/IllusCred.pdf\" target=\"_blank\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PedroRodriguez101.github.io/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">HOMEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-f\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">RESUME<br></a></li>"
         },
         {
           "_tags": [
@@ -638,27 +638,60 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#ffffff"
-            },
-            "SMALL": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#ffffff"
+              "color": "#ed145a"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-17",
+          "_anchor": "header3-2g",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#f090c0",
-            "showMeta": true
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#ed145a",
+            "showMeta": false
           },
-          "title": "The Goods",
-          "meta": "<span style=\"font-style: normal;\">Take a Gander.</span>"
+          "title": "Title with Solid Backround Color",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2f",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/67-2000x1125.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#18d8f0",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "The Goods<br>",
+          "text": "<p>Take a Gander.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_inherit": "gallery1",
@@ -680,8 +713,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tv-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/tv-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/tv-1-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/tv-1-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -690,8 +723,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-2-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/untitled-2-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2-6-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2-6-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -700,8 +733,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-4-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/untitled-4-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/6-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/6-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -710,8 +743,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cover-art-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/cover-art-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cover-art-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cover-art-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -720,8 +753,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sketch-1-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/sketch-1-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/sketch-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sketch-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -760,8 +793,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vw-logo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/vw-logo-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vw-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vw-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -770,8 +803,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/before-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/before-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/key-1-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/key-1-2000x2000.png",
                 "caption": "<b>Before</b> Retouch - <i>1st</i> Place Winner of Photo-Retouching Contest held at County Fair, 2016",
                 "active": false
               },
@@ -780,8 +813,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/after-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/after-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/after-1-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/after-1-2000x2000.png",
                 "caption": "<b>After</b> Retouch - <i>1st</i> Place Winner of Photo-Retouching Contest held at County Fair, 2016",
                 "active": false
               },
@@ -900,8 +933,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ufo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ufo-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ufo-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ufo-1-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -910,8 +943,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mayo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mayo-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mayo-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mayo-1-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -920,10 +953,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sandwich-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sandwich-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sandwich-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sandwich-1-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Illustrator",
@@ -940,8 +973,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tech-logo-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/tech-logo-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1068,12 +1101,12 @@
               {
                 "tags": "Film",
                 "playVideo": true,
-                "videoUrl": "PedroRodriguez101.github.io/Short Clip.mp4",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=r9f3ZBoY4hM",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-23-08-04-43.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/11-2000x1000-800x400.jpg",
                 "image": "@PROJECT_PATH@/assets/images/11-2000x1000.jpg",
                 "caption": "",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
@@ -1183,7 +1216,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-f\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#gallery4-18\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-u\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-v\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere Pro CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Audition CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe After Effects CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Lightroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-t\">Microsoft Word 2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Microsoft PowerPoint 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/credentials/IllusCred.pdf\" target=\"_blank\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PedroRodriguez101.github.io/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">HOMEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-f\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">RESUME<br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#gallery4-18\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-u\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-v\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere Pro CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Audition CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe After Effects CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Lightroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-t\">Microsoft Word 2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Microsoft PowerPoint 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/credentials/IllusCred.pdf\" target=\"_blank\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PedroRodriguez101.github.io/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">HOMEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-f\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">RESUME<br></a></li>"
         },
         {
           "_tags": [
@@ -1339,7 +1372,7 @@
           },
           "_anchor": "header2-1p",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "50",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x1125.jpg",
@@ -1351,7 +1384,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.3,
-            "overlayColor": "#000",
+            "overlayColor": "#000000",
             "inverse": true,
             "showTitle": true,
             "showText": true,
@@ -1465,36 +1498,38 @@
               "font-size": "15px"
             },
             "H4": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             "P": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#000000",
               "text-align": "left"
             },
             "SPAN": {
-              "color": "#000000"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_anchor": "features6-26",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-is-flooding-1-2000x1125.jpg",
             "bgColor": "#ffa2eb",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#ffa2eb",
             "columns": 4,
             "showImages": true,
             "showTitles": true,
@@ -1600,36 +1635,48 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".lead P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header4",
-          "_anchor": "header4-2e",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2h",
           "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "PedroRodriguez101.github.io/Short Clip.mp4"
+              "url": "https://www.youtube.com/embed/EmBbHpALa50?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "right",
+            "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButton": false
           },
-          "title": "VIDEO BACKGROUND",
-          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "title": "I'LL CHANGE THIS",
+          "text": "<p>At Some Point</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_styles": {
@@ -1675,29 +1722,41 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
           "_styles": {
-            "SPAN": {
-              "color": "#000000"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             },
             "DIV": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
-          "_anchor": "content7-1z",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2i",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffa2eb"
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-is-flooding-1-2000x1125.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#ffa2eb",
+            "showTitle": false,
+            "showCaption": true
           },
-          "text1": "I first experienced tech when I was a wee lad in my father’s house, back when my parents<div>weren’t even living together. I remember watching an old movie, animated by Disney called Dinosaur. I&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">remember being fascinated by how real everything looked in that movie and of course, I later thought of&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">how they created the movie. My Dad later explained that it was done by computers and </span><i style=\"font-size: 1.07rem; line-height: 1.5;\">smart people</i><span style=\"font-size: 1.07rem; line-height: 1.5;\">.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">But I didn’t really think much of it afterwards. Then after we all moved into a new house as a family, My&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Mom got my Dad into video games by getting him an Xbox; and the only game we had was Godzilla:</span></div><div>Earth Defenders. That was the first video game I had ever experienced and actually had a connection. I guess I<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;somehow related to giant monsters whom leveled cities. Though, from there on I’ve been a huge</span></div><div>fan of video games.</div>",
-          "text2": "When I reached elementary school, I started reading lots of books - became infatuated with all&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">these novels, mangas and comics alike. This later led to me grabbing a bunch of copy paper and stapling&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">it altogether and <i>creating my own graphic novels</i>. I became a little writer I guess, but I never stopped</span><div>playing video games. I even took art class for numerous years in elementary and in middle school. Later&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">on I grew older, obviously, and with that I played more video games and watched more movies. The&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">budget of them all grew exponentially. The CGI in movies became life like, video games became more</span></div><div>cinematic with the way their characters were shown and acted along with their graphics. All this inspired&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">me to write better, I wanted to be an author. I wanted to grow up and write the scripts and stories for&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">video games and movies. So I joined a creative writing magnet in the school I was attending.</span></div>",
-          "text3": "But at the end of that year, the program was canned. So I didn’t really have anything to really&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">suffice my <i>artistic needs</i> I guess you could say. I didn’t really want to take art anymore and the writing&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">class no longer existed. I thought about joining in drama over that summer but I decided to sign up</span><div>Digital Media Design instead. I didn’t really know what the class was about. I was kind of hoping it’d be&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">the class that would fill the hole. I still wanted to be a so many things at the time: a writer, actor, video&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">game designer, director or even a photographer. I didn’t really know what I wanted – still don’t. But I&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">know for sure that I want to work in film or video game industry and I want to create content with tech&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">for the rest of my life; whether it may be writing scripts for big time movies or games, creating art for&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">those games, designing advertisements for the films.</span></div>"
+          "title": "BACKGROUND IMAGE",
+          "caption": "I first experienced tech when I was a wee lad in my father’s house, back when my parents&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">weren’t even living together. I remember watching an old movie, animated by Disney called Dinosaur. I remember being fascinated by how real everything looked in that movie and of course, I later thought of how they created the movie. My Dad later explained that it was done by computers and </span><i style=\"font-size: 1.07rem; line-height: 1.5;\">smart people</i><span style=\"font-size: 1.07rem; line-height: 1.5;\">. But I didn’t really think much of it afterwards. Then after we all moved into a new house as a family, My Mom got my Dad into video games by getting him an Xbox; and the only game we had was Godzilla:&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Earth Defenders. That was the first video game I had ever experienced and actually had a connection. I guess I somehow related to giant monsters whom leveled cities. Though, from there on I’ve been a huge&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">fan of video games.</span><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">When I reached elementary school, I started reading lots of books - became infatuated with all these novels, mangas and comics alike. This later led to me grabbing a bunch of copy paper and stapling it altogether and creating my own graphic novels. I became a little writer I guess, but I never stopped&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">playing video games. I even took art class for numerous years in elementary and in middle school. Later on I grew older, obviously, and with that I played more video games and watched more movies. The budget of them all grew exponentially. The CGI in movies became life like, video games became more&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">cinematic with the way their characters were shown and acted along with their graphics. All this inspired me to write better, I wanted to be an author. I wanted to grow up and write the scripts and stories for video games and movies. So I joined a creative writing magnet in the school I was attending.&nbsp;</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">But at the end of that year, the program was canned. So I didn’t really have anything to really suffice my artistic needs I guess you could say. I didn’t really want to take art anymore and the writing class no longer existed. I thought about joining in drama over that summer but I decided to sign up&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Digital Media Design instead. I didn’t really know what the class was about. I was kind of hoping it’d be the class that would fill the hole. I still wanted to be a so many things at the time: a writer, actor, video game designer, director or even a photographer. I didn’t really know what I wanted. But I know for sure that I want to work in the film or video game industry and I want to create content with tech for the rest of my life; whether it may be writing scripts for big time movies or games, creating art for those games, designing advertisements for the films.</span></div>"
         },
         {
           "_styles": {
@@ -1888,7 +1947,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-f\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#gallery4-18\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-u\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-v\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere Pro CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Audition CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe After Effects CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Lightroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-t\">Microsoft Word 2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Microsoft PowerPoint 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/credentials/IllusCred.pdf\" target=\"_blank\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PedroRodriguez101.github.io/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">HOMEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-f\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">RESUME<br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#gallery4-18\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-u\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-v\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere Pro CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Dreamweaver CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Audition CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe After Effects CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Lightroom</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#header5-t\">Microsoft Word 2016<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Microsoft PowerPoint 2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/credentials/IllusCred.pdf\" target=\"_blank\">Adobe Illustrator CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PedroRodriguez101.github.io/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">HOMEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-f\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"/documents/Pedro Rodriguez's Resume.pdf\" target=\"_blank\">RESUME<br></a></li>"
         },
         {
           "_styles": {

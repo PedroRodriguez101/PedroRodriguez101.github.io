@@ -669,16 +669,19 @@ h6,
 
 
 
-#header3-17 .mbr-section-title,
-#header3-17 .mbr-section-subtitle {
+#header3-2g .mbr-section-title,
+#header3-2g .mbr-section-subtitle {
   text-align: center;
 }
-#header3-17 H3 {
-  color: #ffffff;
+#header3-2g H3 {
+  color: #ed145a;
 }
-#header3-17 SMALL {
-  font-family: 'Oxygen', sans-serif;
-  color: #ffffff;
+#msg-box8-2f .mbr-section-title,
+#msg-box8-2f p {
+  color: #fff;
+}
+#msg-box8-2f .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
 }
 #gallery4-18 LI {
   color: #ffffff;
@@ -790,6 +793,9 @@ h6,
 
 
 
+
+
+
 #header3-1x .mbr-section-title,
 #header3-1x .mbr-section-subtitle {
   text-align: center;
@@ -831,16 +837,27 @@ h6,
   font-size: 15px;
 }
 #features6-26 H4 {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Montserrat', sans-serif;
 }
 #features6-26 P {
-  font-family: 'Roboto', sans-serif;
-  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  color: #000000;
   text-align: left;
 }
 #features6-26 SPAN {
-  color: #000000;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box8-2h .mbr-section-title,
+#msg-box8-2h p {
+  color: #fff;
+}
+#msg-box8-2h .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box8-2h .lead P {
+  font-family: 'Oxygen', sans-serif;
 }
 #msg-box8-1w .mbr-section-title,
 #msg-box8-1w p {
@@ -853,11 +870,12 @@ h6,
 #msg-box8-1w .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
 }
-#content7-1z SPAN {
-  color: #000000;
+#content5-2i .mbr-section-title,
+#content5-2i p {
+  color: #fff;
 }
-#content7-1z DIV {
-  color: #ffffff;
+#content5-2i DIV {
+  color: #000000;
   font-family: 'Oxygen', sans-serif;
 }
 #header3-25 .mbr-section-title,
