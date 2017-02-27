@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 106,
+    "uniqCompNum": 107,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/Petie-PC/Desktop",
     "screenshot": "screenshot.png"
@@ -71,7 +71,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-section-title": {
-              "color": "#ffd2e0",
+              "color": "#ffeff4",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "80px"
@@ -340,7 +340,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bread-1-210x128.png",
+              "src": "@PROJECT_PATH@/assets/images/bread-210x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "#top",
@@ -449,6 +449,9 @@
             ".btn": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-lead SPAN": {
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -458,11 +461,11 @@
           "_anchor": "header5-u",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-19-2000x1125.jpg",
             "bgColor": "#f090c0",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -596,8 +599,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
               "font-size": "0.8rem"
@@ -1130,7 +1133,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sandwich-1-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sandwich-1-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Illustrator",
@@ -1281,6 +1284,26 @@
                 "image": "@PROJECT_PATH@/assets/images/11-2000x1000.jpg",
                 "caption": "",
                 "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/brain-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/brain-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bulb-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bulb-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 1,
@@ -1437,8 +1460,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
               "font-size": "0.8rem"
