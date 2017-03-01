@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1919,7 +1919,7 @@
             "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#0098ab",
+            "overlayColor": "#008999",
             "showTitle": true,
             "showText": true,
             "showButton": false
