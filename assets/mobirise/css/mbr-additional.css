@@ -447,40 +447,12 @@ h6,
 #header1-1k .mbr-section-lead SPAN {
   color: #6defff;
 }
-#header3-2p .mbr-section-title,
-#header3-2p .mbr-section-subtitle {
+#header3-38 .mbr-section-title,
+#header3-38 .mbr-section-subtitle {
   text-align: center;
 }
-#header3-2p H3 {
+#header3-38 H3 {
   color: #ed145a;
-}
-#social-buttons2-2b .mbr-section-title,
-#social-buttons2-2b .btn-social {
-  color: #232323;
-}
-#social-buttons2-2b .mbr-section-title {
-  color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
-}
-#contacts4-1l .btn {
-  font-family: 'Oxygen', sans-serif;
-}
-#contacts4-1l P {
-  font-family: 'Oxygen', sans-serif;
-  color: #efefef;
-}
-#contacts4-1l STRONG {
-  font-family: 'Montserrat', sans-serif;
-  color: #ffffff;
-}
-#contacts4-1l UL {
-  font-family: 'Oxygen', sans-serif;
-  color: #ffffff;
-}
-#footer1-2l P {
-  font-family: 'Oxygen', sans-serif;
-  font-size: 14px;
-  color: #ffffff;
 }
 #ext_menu-2x .hide-buttons .nav-btn {
   display: none !important;
@@ -545,6 +517,41 @@ h6,
 #ext_menu-2x .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
+#social-buttons2-37 .mbr-section-title,
+#social-buttons2-37 .btn-social {
+  color: #232323;
+}
+#social-buttons2-37 .mbr-section-title {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#contacts4-1n .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#contacts4-1n P {
+  font-family: 'Oxygen', sans-serif;
+  color: #efefef;
+}
+#contacts4-1n STRONG {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+#contacts4-1n UL {
+  font-family: 'Oxygen', sans-serif;
+  color: #ffffff;
+}
+#footer1-2l P {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 14px;
+  color: #ffffff;
+}
+#header3-3a .mbr-section-title,
+#header3-3a .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3a H3 {
+  color: #ed145a;
+}
 
 
 
@@ -580,6 +587,13 @@ h6,
 #header5-t .btn {
   font-family: 'Oxygen', sans-serif;
 }
+#header3-34 .mbr-section-title,
+#header3-34 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-34 H3 {
+  color: #ed145a;
+}
 #header5-u .mbr-section-title {
   color: #ffffff;
   font-family: 'Montserrat', sans-serif;
@@ -593,6 +607,13 @@ h6,
 }
 #header5-u .mbr-section-lead SPAN {
   text-align: left;
+}
+#header3-33 .mbr-section-title,
+#header3-33 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-33 H3 {
+  color: #ed145a;
 }
 #header5-v .mbr-section-title {
   color: #ffffff;
@@ -706,6 +727,13 @@ h6,
   font-size: 14px;
   color: #ffffff;
 }
+#header3-39 .mbr-section-title,
+#header3-39 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-39 H3 {
+  color: #ed145a;
+}
 
 
 
@@ -728,6 +756,13 @@ h6,
 }
 #msg-box8-2f .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
+}
+#header3-35 .mbr-section-title,
+#header3-35 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-35 H3 {
+  color: #ed145a;
 }
 #gallery4-18 LI {
   color: #ffffff;
@@ -833,6 +868,13 @@ h6,
   font-size: 14px;
   color: #ffffff;
 }
+#header3-3g .mbr-section-title,
+#header3-3g .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3g H3 {
+  color: #ed145a;
+}
 
 
 
@@ -890,6 +932,13 @@ h6,
   font-family: 'Montserrat', sans-serif;
   font-size: 48px;
 }
+#header3-3f .mbr-section-title,
+#header3-3f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3f H3 {
+  color: #ed145a;
+}
 #features6-26 H5 {
   font-family: 'Oxygen', sans-serif;
   color: #ffffff;
@@ -908,6 +957,13 @@ h6,
   color: #ffd07a;
   font-family: 'Roboto', sans-serif;
 }
+#header3-3e .mbr-section-title,
+#header3-3e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3e H3 {
+  color: #ed145a;
+}
 #msg-box8-2h .mbr-section-title,
 #msg-box8-2h p {
   color: #fff;
@@ -923,6 +979,13 @@ h6,
 #msg-box8-2h .lead {
   color: #ffd07a;
 }
+#header3-3d .mbr-section-title,
+#header3-3d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3d H3 {
+  color: #ed145a;
+}
 #msg-box8-1w .mbr-section-title,
 #msg-box8-1w p {
   color: #fff;
@@ -933,6 +996,13 @@ h6,
 }
 #msg-box8-1w .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
+}
+#header3-3c .mbr-section-title,
+#header3-3c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3c H3 {
+  color: #ed145a;
 }
 #content5-2i .mbr-section-title,
 #content5-2i p {
@@ -1042,4 +1112,11 @@ h6,
   font-family: 'Oxygen', sans-serif;
   font-size: 14px;
   color: #ffffff;
+}
+#header3-3b .mbr-section-title,
+#header3-3b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3b H3 {
+  color: #ed145a;
 }
