@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "page3.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -30,7 +30,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Pedro Rodriguez",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -383,7 +383,7 @@
     },
     "page1.html": {
       "settings": {
-        "title": "Site Maker Title",
+        "title": "Pedro Rodriguez",
         "meta_descr": "Site Maker Description"
       },
       "components": [
@@ -641,7 +641,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x11253.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x11255.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -874,7 +874,7 @@
     },
     "page2.html": {
       "settings": {
-        "title": "Web Maker Title",
+        "title": "Pedro Rodriguez",
         "meta_descr": "Web Maker Description"
       },
       "components": [
@@ -1444,7 +1444,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x11253.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x11255.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1677,7 +1677,7 @@
     },
     "page3.html": {
       "settings": {
-        "title": "Website Maker Title",
+        "title": "Pedro Rodriguez",
         "meta_descr": "Website Maker Description"
       },
       "components": [
@@ -2252,7 +2252,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x11253.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x11255.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
