@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -509,7 +509,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-19-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-23-2000x1125.jpg",
             "bgColor": "#f090c0",
             "bgColorRadio": false,
             "bgVideo": {
@@ -641,7 +641,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x11251.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x11253.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1444,7 +1444,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x11251.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x11253.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -2252,7 +2252,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x11251.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x11253.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
