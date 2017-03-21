@@ -3349,7 +3349,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x11250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x11251.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
