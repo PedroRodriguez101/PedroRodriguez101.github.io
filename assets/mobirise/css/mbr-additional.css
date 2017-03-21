@@ -1120,3 +1120,216 @@ h6,
 #header3-3b H3 {
   color: #ed145a;
 }
+
+
+
+
+
+
+
+
+
+
+
+#header3-3n .mbr-section-title,
+#header3-3n .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3n H3 {
+  color: #ed145a;
+}
+#msg-box8-3q .mbr-section-title,
+#msg-box8-3q p {
+  color: #fff;
+}
+#msg-box8-3q .lead {
+  color: #ffffff;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box8-3q .mbr-section-title {
+  font-size: 60px;
+  color: #ffffff;
+}
+#header3-3z .mbr-section-title,
+#header3-3z .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3z H3 {
+  color: #ed145a;
+}
+#header3-3s .mbr-section-title,
+#header3-3s .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3s H3 {
+  font-size: 46px;
+}
+#header3-3s SMALL {
+  font-family: 'Raleway', sans-serif;
+  color: #000000;
+}
+#header3-3s SPAN {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+#header3-40 .mbr-section-title,
+#header3-40 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-40 H3 {
+  color: #ed145a;
+}
+#content5-3t .mbr-section-title,
+#content5-3t p {
+  color: #fff;
+}
+#content5-3t DIV {
+  color: #ffffff;
+}
+#content5-3t .mbr-section-title {
+  text-align: center;
+  font-size: 48px;
+}
+#header3-3o .mbr-section-title,
+#header3-3o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3o H3 {
+  color: #ed145a;
+}
+#content5-3v .mbr-section-title,
+#content5-3v p {
+  color: #fff;
+}
+#content5-3v DIV {
+  color: #ffffff;
+}
+#content5-3v .mbr-section-title {
+  text-align: center;
+}
+#header3-3w .mbr-section-title,
+#header3-3w .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3w H3 {
+  color: #ed145a;
+}
+#content5-3x .mbr-section-title,
+#content5-3x p {
+  color: #fff;
+}
+#content5-3x DIV {
+  color: #ffffff;
+}
+#content5-3x .mbr-section-title {
+  text-align: center;
+}
+#header3-3y .mbr-section-title,
+#header3-3y .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3y H3 {
+  color: #ed145a;
+}
+#social-buttons2-41 .mbr-section-title,
+#social-buttons2-41 .btn-social {
+  color: #232323;
+}
+#social-buttons2-41 .mbr-section-title {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#contacts4-3j .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#contacts4-3j P {
+  font-family: 'Oxygen', sans-serif;
+  color: #efefef;
+}
+#contacts4-3j STRONG {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+#contacts4-3j UL {
+  font-family: 'Oxygen', sans-serif;
+  color: #ffffff;
+}
+#footer1-3k P {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 14px;
+  color: #ffffff;
+}
+#header3-42 .mbr-section-title,
+#header3-42 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-42 H3 {
+  color: #ed145a;
+}
+#menu-r .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-r .navbar-caption {
+  color: #ffffff;
+  font-size: 16px;
+}
+#menu-r .navbar-toggler {
+  color: #ffffff;
+}
+#menu-r .close-icon::before,
+#menu-r .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-r .link,
+#menu-r .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#menu-r .link {
+  font-size: 0.8rem;
+}
+#menu-r .dropdown-item,
+#menu-r .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-r .link:hover,
+#menu-r .dropdown-item:hover,
+#menu-r .link:focus,
+#menu-r .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-r .link[aria-expanded="true"],
+#menu-r .dropdown-menu {
+  background: #181818;
+}
+#menu-r .nav-dropdown-sm .link:focus,
+#menu-r .nav-dropdown-sm .link:hover,
+#menu-r .nav-dropdown-sm .dropdown-item:focus,
+#menu-r .nav-dropdown-sm .dropdown-item:hover {
+  background: #2a2a2a!important;
+}
+#menu-r .navbar,
+#menu-r .nav-dropdown-sm,
+#menu-r .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-r .nav-dropdown-sm .dropdown-menu {
+  background: #323232;
+}
+#menu-r .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-r .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-r .bg-color.transparent.opened .link:hover,
+#menu-r .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#menu-r .link[aria-expanded="true"],
+#menu-r .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#menu-r .btn {
+  font-family: 'Arimo', sans-serif;
+}
