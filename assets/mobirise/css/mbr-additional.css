@@ -1341,11 +1341,32 @@ h6,
 
 
 
+
+
 #header3-47 .mbr-section-title,
 #header3-47 .mbr-section-subtitle {
   text-align: center;
 }
 #header3-47 H3 {
+  color: #ed145a;
+}
+#msg-box8-4c .mbr-section-title,
+#msg-box8-4c p {
+  color: #fff;
+}
+#msg-box8-4c .lead {
+  color: #ffd07a;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box8-4c .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 48px;
+}
+#header3-4d .mbr-section-title,
+#header3-4d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4d H3 {
   color: #ed145a;
 }
 #menu-44 .hide-buttons .nav-btn {
