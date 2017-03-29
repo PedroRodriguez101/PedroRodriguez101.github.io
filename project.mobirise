@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page3.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -3131,7 +3131,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-9-2000x11254.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-9-2000x11250.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3416,7 +3416,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x11255.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x11251.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
