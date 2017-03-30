@@ -19,6 +19,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -454,6 +456,21 @@ h6,
 #header3-38 H3 {
   color: #ed145a;
 }
+#msg-box1-4k H3 {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box1-4k .btn {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 15px;
+}
+#header3-4l .mbr-section-title,
+#header3-4l .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4l H3 {
+  color: #ed145a;
+}
 #ext_menu-2x .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -524,6 +541,13 @@ h6,
 #social-buttons2-37 .mbr-section-title {
   color: #ffffff;
   font-family: 'Montserrat', sans-serif;
+}
+#header3-4m .mbr-section-title,
+#header3-4m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4m H3 {
+  color: #ed145a;
 }
 #contacts4-1n .btn {
   font-family: 'Oxygen', sans-serif;
