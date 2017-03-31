@@ -107,7 +107,7 @@
           },
           "title": "WELCOME&nbsp;",
           "text": "<span style=\"font-style: normal;\">Why, hello there - come on in.</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">BIOGRAPHY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/watch?v=nsLOt1G1onI\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTRO VIDEO</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">BIOGRAPHY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/watch?v=T--igpQgVQE\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTRO VIDEO</a> "
         },
         {
           "_styles": {
@@ -3131,7 +3131,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-9-2000x11251.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-9-2000x11252.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
