@@ -19,8 +19,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -456,20 +454,13 @@ h6,
 #header3-38 H3 {
   color: #ed145a;
 }
-#msg-box1-4k H3 {
+#social-buttons2-4o .mbr-section-title,
+#social-buttons2-4o .btn-social {
+  color: #232323;
+}
+#social-buttons2-4o .mbr-section-title {
   color: #ffffff;
   font-family: 'Montserrat', sans-serif;
-}
-#msg-box1-4k .btn {
-  font-family: 'Oxygen', sans-serif;
-  font-size: 15px;
-}
-#header3-4l .mbr-section-title,
-#header3-4l .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-4l H3 {
-  color: #ed145a;
 }
 #ext_menu-2x .hide-buttons .nav-btn {
   display: none !important;
@@ -534,20 +525,10 @@ h6,
 #ext_menu-2x .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
-#social-buttons2-37 .mbr-section-title,
-#social-buttons2-37 .btn-social {
-  color: #232323;
-}
-#social-buttons2-37 .mbr-section-title {
+#footer1-2l P {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 14px;
   color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
-}
-#header3-4m .mbr-section-title,
-#header3-4m .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-4m H3 {
-  color: #ed145a;
 }
 #contacts4-1n .btn {
   font-family: 'Oxygen', sans-serif;
@@ -563,18 +544,6 @@ h6,
 #contacts4-1n UL {
   font-family: 'Oxygen', sans-serif;
   color: #ffffff;
-}
-#footer1-2l P {
-  font-family: 'Oxygen', sans-serif;
-  font-size: 14px;
-  color: #ffffff;
-}
-#header3-3a .mbr-section-title,
-#header3-3a .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-3a H3 {
-  color: #ed145a;
 }
 
 
