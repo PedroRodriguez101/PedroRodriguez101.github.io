@@ -545,6 +545,13 @@ h6,
   font-family: 'Oxygen', sans-serif;
   color: #ffffff;
 }
+#header3-4p .mbr-section-title,
+#header3-4p .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4p H3 {
+  color: #ed145a;
+}
 
 
 
