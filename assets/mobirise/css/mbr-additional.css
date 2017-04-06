@@ -1477,3 +1477,93 @@ h6,
 #header3-4a H3 {
   color: #ed145a;
 }
+
+
+
+
+
+
+
+#ext_menu-4q .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-4q .navbar-caption {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#ext_menu-4q .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-4q .close-icon::before,
+#ext_menu-4q .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-4q .link,
+#ext_menu-4q .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-4q .link {
+  font-size: 0.8rem;
+}
+#ext_menu-4q .dropdown-item,
+#ext_menu-4q .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-4q .link:hover,
+#ext_menu-4q .dropdown-item:hover,
+#ext_menu-4q .link:focus,
+#ext_menu-4q .dropdown-item:focus {
+  color: #ffffff;
+}
+#ext_menu-4q .link[aria-expanded="true"],
+#ext_menu-4q .dropdown-menu {
+  background: #181818;
+}
+#ext_menu-4q .nav-dropdown-sm .link:focus,
+#ext_menu-4q .nav-dropdown-sm .link:hover,
+#ext_menu-4q .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-4q .nav-dropdown-sm .dropdown-item:hover {
+  background: #2a2a2a!important;
+}
+#ext_menu-4q .navbar,
+#ext_menu-4q .nav-dropdown-sm,
+#ext_menu-4q .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-4q .nav-dropdown-sm .dropdown-menu {
+  background: #323232;
+}
+#ext_menu-4q .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-4q .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-4q .bg-color.transparent.opened .link:hover,
+#ext_menu-4q .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#ext_menu-4q .link[aria-expanded="true"],
+#ext_menu-4q .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#footer1-4r P {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 14px;
+  color: #ffffff;
+}
+#contacts4-4s .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#contacts4-4s P {
+  font-family: 'Oxygen', sans-serif;
+  color: #efefef;
+}
+#contacts4-4s STRONG {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+#contacts4-4s UL {
+  font-family: 'Oxygen', sans-serif;
+  color: #ffffff;
+}
