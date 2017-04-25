@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -82,7 +82,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-section-lead SPAN": {
-              "color": "#6defff"
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-1k",
@@ -90,7 +90,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-8-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/no-3-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -153,12 +153,12 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-4-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": "0.6",
-            "overlayColor": "#008999"
+            "overlayColor": "#00606b"
           },
           "text": "FOLLOW ME",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCOwzzKPu9FxD2A5_ZfopPfg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
@@ -318,12 +318,12 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x1125.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": "0.6",
-            "overlayColor": "#008999"
+            "overlayColor": "#00606b"
           },
           "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Tunes&nbsp;</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.youtube.com/watch?v=Vl2Rmw5hsao\" target=\"_blank\">Young Robot</a></li><li><a href=\"https://www.youtube.com/watch?v=NQunCjYdAcU\" target=\"_blank\">Cave Me In</a></li><li><a href=\"https://www.youtube.com/watch?v=6UosfX5u14g\" target=\"_blank\" class=\"text-white\">The Eye of Truth</a></li><li><a href=\"https://www.youtube.com/watch?v=QnA4r4ocDII\" target=\"_blank\">Spaceman</a></li></ul>",
@@ -851,12 +851,12 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x1125.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": "0.6",
-            "overlayColor": "#008999"
+            "overlayColor": "#00606b"
           },
           "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Tunes&nbsp;</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.youtube.com/watch?v=Vl2Rmw5hsao\" target=\"_blank\">Young Robot</a></li><li><a href=\"https://www.youtube.com/watch?v=NQunCjYdAcU\" target=\"_blank\">Cave Me In</a></li><li><a href=\"https://www.youtube.com/watch?v=6UosfX5u14g\" target=\"_blank\" class=\"text-white\">The Eye of Truth</a></li><li><a href=\"https://www.youtube.com/watch?v=QnA4r4ocDII\" target=\"_blank\">Spaceman</a></li></ul>",
@@ -1558,12 +1558,12 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x1125.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": "0.6",
-            "overlayColor": "#008999"
+            "overlayColor": "#00606b"
           },
           "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Tunes&nbsp;</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.youtube.com/watch?v=Vl2Rmw5hsao\" target=\"_blank\">Young Robot</a></li><li><a href=\"https://www.youtube.com/watch?v=NQunCjYdAcU\" target=\"_blank\">Cave Me In</a></li><li><a href=\"https://www.youtube.com/watch?v=6UosfX5u14g\" target=\"_blank\" class=\"text-white\">The Eye of Truth</a></li><li><a href=\"https://www.youtube.com/watch?v=QnA4r4ocDII\" target=\"_blank\">Spaceman</a></li></ul>",
@@ -2367,12 +2367,12 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x1125.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": "0.6",
-            "overlayColor": "#008999"
+            "overlayColor": "#00606b"
           },
           "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Tunes&nbsp;</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.youtube.com/watch?v=Vl2Rmw5hsao\" target=\"_blank\">Young Robot</a></li><li><a href=\"https://www.youtube.com/watch?v=NQunCjYdAcU\" target=\"_blank\">Cave Me In</a></li><li><a href=\"https://www.youtube.com/watch?v=6UosfX5u14g\" target=\"_blank\" class=\"text-white\">The Eye of Truth</a></li><li><a href=\"https://www.youtube.com/watch?v=QnA4r4ocDII\" target=\"_blank\">Spaceman</a></li></ul>",
@@ -2956,12 +2956,12 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x1125.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": "0.6",
-            "overlayColor": "#008999"
+            "overlayColor": "#00606b"
           },
           "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Tunes&nbsp;</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.youtube.com/watch?v=Vl2Rmw5hsao\" target=\"_blank\">Young Robot</a></li><li><a href=\"https://www.youtube.com/watch?v=NQunCjYdAcU\" target=\"_blank\">Cave Me In</a></li><li><a href=\"https://www.youtube.com/watch?v=6UosfX5u14g\" target=\"_blank\" class=\"text-white\">The Eye of Truth</a></li><li><a href=\"https://www.youtube.com/watch?v=QnA4r4ocDII\" target=\"_blank\">Spaceman</a></li></ul>",
@@ -3527,12 +3527,12 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x1125.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": "0.6",
-            "overlayColor": "#008999"
+            "overlayColor": "#00606b"
           },
           "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Tunes&nbsp;</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.youtube.com/watch?v=Vl2Rmw5hsao\" target=\"_blank\">Young Robot</a></li><li><a href=\"https://www.youtube.com/watch?v=NQunCjYdAcU\" target=\"_blank\">Cave Me In</a></li><li><a href=\"https://www.youtube.com/watch?v=6UosfX5u14g\" target=\"_blank\" class=\"text-white\">The Eye of Truth</a></li><li><a href=\"https://www.youtube.com/watch?v=QnA4r4ocDII\" target=\"_blank\">Spaceman</a></li></ul>",
@@ -3752,12 +3752,12 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-5-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x1125.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": "0.6",
-            "overlayColor": "#008999"
+            "overlayColor": "#00606b"
           },
           "text1": "<strong>Address</strong><br>15281 SW 26 TER<br>Miami, FL 33182<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prodriguez@miamiartsstudio.com<br>\nPhone: 786-423-6392<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Tunes&nbsp;</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.youtube.com/watch?v=Vl2Rmw5hsao\" target=\"_blank\">Young Robot</a></li><li><a href=\"https://www.youtube.com/watch?v=NQunCjYdAcU\" target=\"_blank\">Cave Me In</a></li><li><a href=\"https://www.youtube.com/watch?v=6UosfX5u14g\" target=\"_blank\" class=\"text-white\">The Eye of Truth</a></li><li><a href=\"https://www.youtube.com/watch?v=QnA4r4ocDII\" target=\"_blank\">Spaceman</a></li></ul>",
