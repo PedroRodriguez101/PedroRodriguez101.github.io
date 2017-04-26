@@ -1437,7 +1437,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/11-2000x1000-800x400.jpg",
                 "image": "@PROJECT_PATH@/assets/images/11-2000x1000.jpg",
                 "caption": "",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Illustrator",
@@ -1458,6 +1458,56 @@
                 "image": "@PROJECT_PATH@/assets/images/bulb-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=zoqPoAKR9jQ",
+                "videoPreview": "@PROJECT_PATH@/2017-02-22_20-59-47.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/keyboard-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/keyboard-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=zoqPoAKR9jQ",
+                "videoPreview": "@PROJECT_PATH@/2017-02-22_20-59-47.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mega-d-r-o-p-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mega-d-r-o-p-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=zoqPoAKR9jQ",
+                "videoPreview": "@PROJECT_PATH@/2017-02-22_20-59-47.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boba-fett-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boba-fett-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=zoqPoAKR9jQ",
+                "videoPreview": "@PROJECT_PATH@/2017-02-22_20-59-47.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/key-3-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/key-3-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=zoqPoAKR9jQ",
+                "videoPreview": "@PROJECT_PATH@/2017-02-22_20-59-47.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ronald-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ronald-2000x1000.jpg",
+                "caption": "",
+                "active": true
               }
             ],
             "spacing": "1",
@@ -2325,7 +2375,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x11250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x11251.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
