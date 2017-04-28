@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -666,7 +666,7 @@
           },
           "title": "Premiere&nbsp;",
           "text": "<span style=\"font-style: normal;\">Click to View</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/watch?v=F7z46AOmuuw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Imagine Dragons | Believer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/watch?v=6AsBqIg17sU\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Colin Hay | Thousand Million Reasons</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/watch?v=F7z46AOmuuw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Imagine Dragons | Believer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/watch?v=-BhTvuPLgvQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Colin Hay | Thousand Million Reasons</a>"
         },
         {
           "_styles": {
@@ -1506,6 +1506,66 @@
                 "videoPreview": "@PROJECT_PATH@/2017-02-22_20-59-47.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ronald-2000x1000-800x400.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ronald-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/guns-for-hands-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/guns-for-hands-2000x1000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=zoqPoAKR9jQ",
+                "videoPreview": "@PROJECT_PATH@/2017-02-22_20-59-47.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sign-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sign-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Sketches",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yaga-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/yaga-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=zoqPoAKR9jQ",
+                "videoPreview": "@PROJECT_PATH@/2017-02-22_20-59-47.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/skeleton-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/skeleton-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=zoqPoAKR9jQ",
+                "videoPreview": "@PROJECT_PATH@/2017-02-22_20-59-47.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ztrash-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ztrash-2000x1000.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=zoqPoAKR9jQ",
+                "videoPreview": "@PROJECT_PATH@/2017-02-22_20-59-47.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bag-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bag-2000x1000.jpg",
                 "caption": "",
                 "active": true
               }
@@ -2375,7 +2435,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x11251.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x11250.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
