@@ -2435,7 +2435,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x11250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x11251.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
