@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1567,6 +1567,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/bag-2000x1000-800x400.jpg",
                 "image": "@PROJECT_PATH@/assets/images/bag-2000x1000.jpg",
                 "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Photography",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=zoqPoAKR9jQ",
+                "videoPreview": "@PROJECT_PATH@/2017-02-22_20-59-47.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/revised-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/revised-2000x1000.jpg",
+                "caption": "",
                 "active": true
               }
             ],
@@ -2435,7 +2445,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x11251.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x11252.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
