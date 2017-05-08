@@ -1407,17 +1407,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/8-2000x1000-800x400.jpg",
                 "image": "@PROJECT_PATH@/assets/images/8-2000x1000.jpg",
                 "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Photography",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/9-2000x1000-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/9-2000x1000.jpg",
-                "caption": "",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Photography",
@@ -1577,7 +1567,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/revised-2000x1000-800x400.jpg",
                 "image": "@PROJECT_PATH@/assets/images/revised-2000x1000.jpg",
                 "caption": "",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
@@ -2445,7 +2435,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x11252.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/no-1-2000x11253.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
