@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -666,7 +666,7 @@
           },
           "title": "Premiere&nbsp;",
           "text": "<span style=\"font-style: normal;\">Click to View</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/watch?v=F7z46AOmuuw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Imagine Dragons | Believer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/watch?v=XCSGEQ6bp4M\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Colin Hay | Thousand Million Reasons</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/watch?v=F7z46AOmuuw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Imagine Dragons | Believer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/watch?v=XCSGEQ6bp4M\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Colin Hay | Thousand Million Reasons</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/watch?v=W2hukcC_mac&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Film Festival | Intro</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/watch?v=nwvLkLI7_6s\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Film Festival | Outro</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/watch?v=ntm3r9gqIAg&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Film Festival | Best Short Film</a>"
         },
         {
           "_styles": {
